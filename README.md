@@ -1,0 +1,2 @@
+# panel
+Control Panel Template
